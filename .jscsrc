@@ -1,0 +1,10 @@
+{
+    "preset": "jquery",
+
+    "requireCapitalizedComments": null,
+    "requireLineFeedAtFileEnd": null,
+    "requirePaddingNewLinesBeforeLineComments": null,
+    "requireSpacesInsideBrackets": null,
+    "requireSpacesInsideParentheses": null,
+    "validateQuoteMarks": null
+}
